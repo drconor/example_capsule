@@ -1,6 +1,5 @@
 metadata_version: 1
-name: Code Ocean Capsule Template
-description:
-  A template for creating new Code Ocean capsules from GitHub.
+name: Code Ocean Capsule Template - main branch
+description: A template for creating new Code Ocean capsules from GitHub.
 authors:
-  - name: Conor Mohan
+- name: Conor Mohan
