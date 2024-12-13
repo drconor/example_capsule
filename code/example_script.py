@@ -1,3 +1,4 @@
+#branch2 comment
 # This is an example Python script that will output a random value to
 # CodeOcean (CO) results. You can add any number of scripts to your CodeOcean
 # capsule, and a number of different runtimes are supported by the
